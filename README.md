@@ -50,9 +50,9 @@ The following cleaning steps were applied to the comments:
 
 - A **bar chart** shows the distribution of sentiments across the dataset.
 - **Word clouds** were generated to visualize the most common terms for each sentiment category:
-  - 💬 Positive comments: praise, excitement, appreciation.
-  - 💬 Negative comments: criticism, sarcasm, disappointment.
-  - 💬 Neutral comments: facts, questions, general talk.
+  - Positive comments: praise, excitement, appreciation.
+  - Negative comments: criticism, sarcasm, disappointment.
+  - Neutral comments: facts, questions, general talk.
 
 ---
 
